@@ -1,0 +1,108 @@
+23,adevarul holding,"Sos. Fabrica de Glucoza, nr. 21, sector 2, Bucuresti",0318.603.100 ,,http://www.adevarulshop.ro/
+24,agora,"Adresă Sediu Piaţa Tineretului, nr. 8  410526 Oradea, jud. Bihor",+40259472513,+40259434925 ,http://univagora.ro/ro/resurse/editura-agora/
+25,albatros,"Str. Piata Presei Libere ,Nr. 1 ,Sector 1 ,2689 ,BUCURESTI ,Bucuresti",021/2228493,021/2228493,null
+26,alcor,null,+40212237106,,http://www.editura-alcor.ro/
+27,Alcris,"Str. Panait Istrati, nr.62, sector 1, Bucuresti ",021-665.45.65,,http://alcris.ro/
+28,alfa,"St. Trei Ierarhi Nr. 2, Iasi 700028", 0740.570.752,,http://www.editalfa.ro/
+29,Anivma,null,null,,null
+37,cartex,"Bucuresti,CP.184,OP.4",0745069898,,http://www.edituracartex.ro/
+43,corint,null,null,,null
+44,cristal,null,null,,null
+45,curtea veche,null,null,,null
+46,dacia,null,null,,null
+47,decoda,null,null,,null
+62,igr,null,null,,null
+63,ion creanga,null,null,,null
+64,corint,null,null,,null
+94,pentru turism,null,null,,null
+95,pim,null,null,,null
+98,prietenii cartii,null,null,,null
+99,printech,null,null,,null
+100,printeuro,null,null,,null
+101,pro editura si tipografie,null,null,,null
+102,rao,null,null,,null
+103,reader's digest,null,null,,null
+104,recoop,null,null,,null
+106,romanul,null,null,,null
+107,rosetti educational,null,null,,null
+108,scrisul romanesc,null,null,,null
+109,sitepoint,null,null,,null
+110,sport-turism,null,null,,null
+111,steaua-nordului,null,null,,null
+117,timpul,null,null,,null
+118,tinc,null,null,,null
+119,tineretului,null,null,,null
+120,trei,null,null,,null
+121,ulise,null,null,,null
+122,universalia,null,null,,null
+123,Universitatii Petrol-Gaze,null,null,,null
+124,universul-familiei,null,null,,null
+125,venus,null,null,,null
+126,vox,null,null,,null
+127,nu are,null,null,,null
+49,Didactica Publishing House,null,null,,null
+50,edinter,null,null,,null
+51,Stiintifica,null,null,,null
+52,elis,null,null,,null
+53,elit-comentator,null,null,,null
+54,eminescu,null,null,,null
+55,facla,null,null,,null
+56,forum,null,null,,null
+57,fundatia regele mihai I,null,null,,null
+58,herra,null,null,,null
+59,holding reporter,null,null,,null
+1,LITERA,"Str. Porumbaru Emanoil, 31A, Bucuresti-Sector 1, Bucuresti, 11421",021 319 6393,031.425.16.20,http://www.litera.ro/
+22,Acc distribution,United Kingdom IP12 4SD,4401394389950,1394 389999,http://www.accdistribution.com/
+30,ap,null,null,,null
+31,regis,null,null,,http://www.edituraregis.ro/
+32,Arta grafica,null,null,,null
+33,arthur,"C.P.4,O.P.83,cod 062610, sector 6, Bucureşti",021.369.31.99,,www.editura-art.ro#sthash.kZJhlFNm.dpuf
+34,carmel,null,null,,null
+35,carminis,"Pitesti, Str. Exercitiu, Bl. D 22, Sc. B, Ap. 1, cod 110242",0248252467,,http://www.carminis.ro/
+36,cartea romaneasca, Calea Victoriei nr. 133,021/319.65.99,,http://www.cartearomaneasca.ro/
+38,ceres,Piata Presei Libere nr.1 sector 1 Bucuresti  OP 33 cod 013701,021 317 90 23,,www.editura-ceres.ro
+39,collins,null,null,,null
+40,colosseum,null,null,,null
+41,concept,null,null,,null
+42,coresi,null,null,,null
+48,didactica si pedagogica,null,null,,null
+60,humanitas,null,null,,null
+61,hyperion,null,null,,null
+65,junimea,null,null,,null
+66,jurnalul national,null,null,,null
+67,L&S infomat,null,null,,null
+68,L&S soft,null,null,,null
+69,larry-cart,null,null,,null
+70,leda,null,null,,null
+71,lider,null,null,,null
+72,lira,null,null,,null
+73,litera,null,null,,null
+74,litera international,null,null,,null
+75,logos,null,null,,null
+76,lucman,null,null,,null
+77,marianne,null,null,,null
+78,medicala,null,null,,null
+79,merope,null,null,,null
+80,meteor press,null,null,,null
+81,militara,null,null,,null
+82,minerva,null,null,,null
+83,miron,null,null,,null
+84,moderna pd,null,null,,null
+85,moldova,null,null,,null
+86,nemira,null,null,,null
+87,neroandria,null,null,,null
+88,niculescu,null,null,,null
+89,olimp,null,null,,null
+90,omega,null,null,,null
+91,orizonturi,null,null,,null
+92,pallas,null,null,,null
+93,pentru literatura,null,null,,null
+96,polirom,null,null,,null
+97,politica,null,null,,null
+105,regis,null,null,,null
+112,stiinta ,null,null,,null
+113,stiintifica,null,null,,null
+114,stintifica si enciclopedica,null,null,,null
+115,tehnica,null,null,,null
+116,tenzi,null,null,,null
+21,3d media communications,"Brasov, Str. N.D.Cocea nr. 12, Et. 1-2, Jud. Brasov",0268-415.158,0268-418.728;0368-41,www.3dmediacommunications.ro

@@ -1,0 +1,18 @@
+22,beletristica
+36,stiinta si tehnica
+37,stiinte umaniste
+21,afaceri economie
+23,"biografii,memorii,jurnale"
+24,"calatori,ghiduri,carti"
+25,cultura generala
+26,dezvoltare personala
+27,drept
+28,gastronomie
+29,IT computere
+30,limbi straine
+31,manuale scolare
+32,medicina si farmacie
+33,religie
+34,reviste
+35,sanatate
+1,"arta,arhitectura,design"
