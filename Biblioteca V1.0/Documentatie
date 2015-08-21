@@ -1,0 +1,7 @@
+Aplicatia isi doreste sa usureze gestiunea cartilor din biblioteca persoanala.
+Pentru a folosi aplicatia aveti nevoie de urmatoarele:
+-cont pe https://www.apex.oracle.com/ sau Oracle Database 11G instalat;
+-fisierul pentru crearea bazei de date(Baza de date.sql) care trebuie rulat din meniul SQL Workshop > SQL Scripts;
+-fisierul pentru instalarea aplicatiei(Aplicatie.sql) care trebuie rulat din meniul Application Builder;
+-cele 2 fisiere categorie.txt si editura.txt nu trebuie importate neaparat, ele introduc niste categorii si edituri.
+Pentru mai multe detalii: http://patrascugabriel.info/contact.html/
